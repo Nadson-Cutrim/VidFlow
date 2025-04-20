@@ -1,42 +1,42 @@
 {
   "animes": [
     {
-      "titulo": "Vídeo fictício 1",
+      "titulo": "Noragami | Opening 2",
       "descricao": "1,5 mil visualizações fictícias",
       "url": "https://www.youtube.com/embed/jIfogFtgV-o",
-      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "imagem":  "/public/crunchy.jpg",
       "id": 1,
       "categoria": "Aberturas de Anime"
     },
     {
-      "titulo": "Vídeo fictício 2",
+      "titulo": "美波「Chorando pela chuva」MV (Legendado Português)",
       "descricao": "1,5 mil visualizações fictícias",
       "url": "https://www.youtube.com/embed/0YF8vecQWYs",
-      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "imagem": "public/crunchy.jpg",
       "id": 2,
       "categoria": "Aberturas de Anime"
     },
     {
-      "titulo": "Vídeo fictício 3",
+      "titulo": "Gintama Opening 13 | Sakuramitsu Tsuki (HD)",
       "descricao": "1,5 mil visualizações fictícias",
       "url": "https://www.youtube.com/embed/4JnWiC9F448",
-      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "imagem": "/public/crunchy.jpg",
       "id": 3,
       "categoria": "Aberturas de Anime"
     },
     {
-      "titulo": "Vídeo fictício 4",
+      "titulo": "Demon Slayer | OP | Gurenge by LiSA HD",
       "descricao": "1,5 mil visualizações fictícias",
       "url": "https://www.youtube.com/embed/pmanD_s7G3U",
-      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "imagem": "/public/crunchy.jpg",
       "id": 4,
       "categoria": "Aberturas de Anime"
     },
     {
-      "titulo": "Vídeo fictício 5",
+      "titulo": "One Puch Man - Official Opening | The Hero !! Set Fire to thw Furious Fist",
       "descricao": "1,5 mil visualizações fictícias",
       "url": "https://www.youtube.com/embed/atxYe-nOa9w",
-      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "imagem": "/public/crunchy.jpg",
       "id": 5,
       "categoria": "Aberturas de Anime"
     },
@@ -44,136 +44,144 @@
       "titulo": "『俺だけレベルアップな件 Season 2』ノンクレジットOPムービー｜LiSA「ReawakeR (feat. Felix of Stray Kids)」",
       "descricao": "1,5 mil visualizações fictícias",
       "url": "https://www.youtube.com/embed/sgnYEfM7U2U?si=HjBBwYO04hMOP1P_&amp;controls=0",
-      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "imagem": "/public/crunchy.jpg",
       "id": 6,
       "categoria": "Aberturas de Anime"
     },
     {
-      "titulo": "Vídeo fictício 7",
+      "titulo": "Kimi no Na wa. Opening Yumetourou - Extended(Sound only)",
       "descricao": "1,5 mil visualizações fictícias",
       "url": "https://www.youtube.com/embed/3sDB38_d1Co",
-      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "imagem": "/public/crunchy.jpg",
       "id": 7,
       "categoria": "Aberturas de Anime"
     },
     {
-      "titulo": "Vídeo fictício 8",
+      "titulo": "アニメ『怪獣８号』ノンクレジットED｜OneRepublic「Nobody」｜毎週土曜23時～放送・配信",
       "descricao": "1,5 mil visualizações fictícias",
-      "url": "https://www.youtube.com/embed/m6RspaT9w0Y",
-      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "url": "https://www.youtube.com/embed/aiCMXJ4zKWA?si=uIty2eHRzJd8O0Pb",
+      "imagem": "/public/crunchy.jpg",
       "id": 8,
       "categoria": "Aberturas de Anime"
     },
     {
-      "titulo": "Vídeo fictício 9",
+      "titulo": "Naruto Shippuden Opening 3 | Blue Bird (HD)",
       "descricao": "1,5 mil visualizações fictícias",
       "url": "https://www.youtube.com/embed/aJRu5ltxXjc",
-      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "imagem": "/public/crunchy.jpg",
       "id": 9,
       "categoria": "Aberturas de Anime"
     },
     {
-      "titulo": "Vídeo fictício 10",
+      "titulo": "[FULL] Naruto OP 3 -『Kanashimi wo Yasashisa ni』- Original|English",
       "descricao": "1,5 mil visualizações fictícias",
       "url": "https://www.youtube.com/embed/y2juBsz78gw",
-      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "imagem": "/public/crunchy.jpg",
       "id": 10,
       "categoria": "Aberturas de Anime"
     },
     {
-      "titulo": "Vídeo fictício 11",
+      "titulo": "Tokyo Ghoul Opening | Unravel",
       "descricao": "1,5 mil visualizações fictícias",
-      "url": "https://www.youtube.com/embed/9mUcDMZviJY",
-      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "url": "https://www.youtube.com/embed/7aMOurgDB-o?si=1muh-lhSY_fplgT9" ,
+      "imagem": "/public/crunchy.jpg",
       "id": 11,
       "categoria": "Aberturas de Anime"
     },
     {
-      "titulo": "Vídeo fictício 12",
+      "titulo": "Atack on Titan Opening 1 | Feuerroter Pfeil und Bogen",
       "descricao": "1,5 mil visualizações fictícias",
       "url": "https://www.youtube.com/embed/8OkpRK2_gVs",
-      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "imagem": "/public/crunchy.jpg",
       "id": 12,
       "categoria": "Aberturas de Anime"
     },
     {
-      "titulo": "Vídeo fictício 13",
+      "titulo": "Rap do Minato (Naruto) | Tauz RapTributo 01",
       "descricao": "1,5 mil visualizações fictícias",
-      "url": "https://www.youtube.com/embed/SRn99oN1p_c",
-      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "url": "https://www.youtube.com/embed/eHPqo6DZqbE?si=5oSSGDbNHfk0HfPm",
+      "imagem": "/public/tauz.jpg",
       "id": 13,
       "categoria": "Aberturas de Anime"
     },
     {
-      "titulo": "Vídeo fictício 14",
+      "titulo": "2ª Abertura de Cavaleiros do Zodiaco (Manchete)",
       "descricao": "1,5 mil visualizações fictícias",
-      "url": "https://www.youtube.com/embed/vxvP9zSOL7s",
-      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "url": "https://www.youtube.com/embed/LFdC99igXrg?si=D_KzSF_61Sjl_Cnd"  ,
+      "imagem": "/public/crunchy.jpg",
       "id": 14,
       "categoria": "Aberturas de Anime"
     },
     {
-      "titulo": "Vídeo fictício 15",
+      "titulo": "TAUZ - MONSTER | 31/31 | DROP NOSTALGICZ",
       "descricao": "1,5 mil visualizações fictícias",
-      "url": "https://www.youtube.com/embed/xjBTNbEXbAA",
-      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "url": "https://www.youtube.com/embed/RvFfdgcbZ-g?si=Bbx0r-gP4ARd2WDQ" ,
+      "imagem": "/public/tauz.jpg",
       "id": 15,
       "categoria": "Aberturas de Anime"
     },
     {
-      "titulo": "Vídeo fictício 16",
+      "titulo": "Rap do Asta (Black Clover) - EU VOU SER O REI MAGO | NERD HITS",
       "descricao": "1,5 mil visualizações fictícias",
-      "url": "https://www.youtube.com/embed/kmL3EuiiWXM",
-      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "url": "https://www.youtube.com/embed/QDLVSyBQHDU?si=rk_I1We9gUXcQGp-",
+      "imagem": "/public/7mz.jpg",
       "id": 16,
       "categoria": "Aberturas de Anime"
     },
     {
-      "titulo": "Vídeo fictício 17",
+      "titulo": "Black Clover Opening 1 | Haruka Mirai by Kankaku Piero",
       "descricao": "1,5 mil visualizações fictícias",
       "url": "https://www.youtube.com/embed/_6KZI74zKfE",
-      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "imagem": "/public/crunchy.jpg",
       "id": 17,
       "categoria": "Aberturas de Anime"
     },
     {
-      "titulo": "Vídeo fictício 18",
+      "titulo": "TAUZ - HALO | 08/31 | DROP NOSTALGICZ",
       "descricao": "1,5 mil visualizações fictícias",
-      "url": "https://www.youtube.com/embed/faqmNf_fZlE",
-      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "url": "https://www.youtube.com/embed/XKdN5W0UwE0?si=TQsKxTZ_MaSrSv56",
+      "imagem": "/public/tauz.jpg",
       "id": 18,
       "categoria": "Aberturas de Anime"
     },
     {
-      "titulo": "Vídeo fictício 19",
+      "titulo": "Naruto Shippuden Opening 17 | Kaze (HD)",
       "descricao": "1,5 mil visualizações fictícias",
       "url": "https://www.youtube.com/embed/0Uk1OeC7-4g",
-      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "imagem": "/public/crunchy.jpg",
       "id": 19,
       "categoria": "Aberturas de Anime"
     },
     {
-      "titulo": "Vídeo fictício 20",
-      "descricao": "1,5 mil visualizações fictícias",
+      "titulo": "Pokémon - 1ª Abertura | Português PT-BR",
+      "descricao": "5,5 mil visualizações fictícias",
       "url": "https://www.youtube.com/embed/mE8E3nT2U70",
-      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "imagem": "/public/crunchy.jpg",
       "id": 20,
       "categoria": "Aberturas de Anime"
     },
     {
-      "titulo": "Vídeo fictício 21",
+      "titulo": "Abertura CDZ - Saga de Hades (Santuário) | Português PT-BR",
       "descricao": "1,5 mil visualizações fictícias",
       "url": "https://www.youtube.com/embed/vilKAhgMQKY",
-      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "imagem": "/public/crunchy.jpg",
       "id": 21,
       "categoria": "Aberturas de Anime"
     },
     {
-      "titulo": "Vídeo fictício 22",
+      "titulo": "Abertura CDZ - Saga de Poseidon | Português PT-BR",
       "descricao": "1,5 mil visualizações fictícias",
       "url": "https://www.youtube.com/embed/n92YuYoQTDU",
-      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "imagem": "/public/crunchy.jpg",
       "id": 22,
+      "categoria": "Aberturas de Anime"
+    },
+    {
+      "titulo": "Naruto Shippuden Opening 6 | Sign (HD)",
+      "descricao": "1,5 mil visualizações",
+      "url": "https://www.youtube.com/embed/watch?v=SavhHnWla6c&list=RD0GvS5nEdoeU&index=14",
+      "imagem": "/public/crunchy.jpg",
+      "id": 23,
       "categoria": "Aberturas de Anime"
     }
   ]

@@ -36,3 +36,5 @@ containerVideos.innerHTML += `
     containerVideos.innerHTML = `<p style="color:red">Erro ao carregar os vídeos: ${error}. Por favor, tente novamente mais tarde.</p>` // Caso ocorra um erro, exibe uma mensagem de erro
 }) 
 
+// json-server --watch backend/animes.json --port 3000 para rodar o json-server na porta 3000
+// json-server --watch backend/videos.json --port 3001 para rodar o json-server na porta 3001
