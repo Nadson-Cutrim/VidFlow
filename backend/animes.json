@@ -1,0 +1,180 @@
+{
+  "animes": [
+    {
+      "titulo": "Vídeo fictício 1",
+      "descricao": "1,5 mil visualizações fictícias",
+      "url": "https://www.youtube.com/embed/jIfogFtgV-o",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "id": 1,
+      "categoria": "Aberturas de Anime"
+    },
+    {
+      "titulo": "Vídeo fictício 2",
+      "descricao": "1,5 mil visualizações fictícias",
+      "url": "https://www.youtube.com/embed/0YF8vecQWYs",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "id": 2,
+      "categoria": "Aberturas de Anime"
+    },
+    {
+      "titulo": "Vídeo fictício 3",
+      "descricao": "1,5 mil visualizações fictícias",
+      "url": "https://www.youtube.com/embed/4JnWiC9F448",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "id": 3,
+      "categoria": "Aberturas de Anime"
+    },
+    {
+      "titulo": "Vídeo fictício 4",
+      "descricao": "1,5 mil visualizações fictícias",
+      "url": "https://www.youtube.com/embed/pmanD_s7G3U",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "id": 4,
+      "categoria": "Aberturas de Anime"
+    },
+    {
+      "titulo": "Vídeo fictício 5",
+      "descricao": "1,5 mil visualizações fictícias",
+      "url": "https://www.youtube.com/embed/atxYe-nOa9w",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "id": 5,
+      "categoria": "Aberturas de Anime"
+    },
+    {
+      "titulo": "『俺だけレベルアップな件 Season 2』ノンクレジットOPムービー｜LiSA「ReawakeR (feat. Felix of Stray Kids)」",
+      "descricao": "1,5 mil visualizações fictícias",
+      "url": "https://www.youtube.com/embed/sgnYEfM7U2U?si=HjBBwYO04hMOP1P_&amp;controls=0",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "id": 6,
+      "categoria": "Aberturas de Anime"
+    },
+    {
+      "titulo": "Vídeo fictício 7",
+      "descricao": "1,5 mil visualizações fictícias",
+      "url": "https://www.youtube.com/embed/3sDB38_d1Co",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "id": 7,
+      "categoria": "Aberturas de Anime"
+    },
+    {
+      "titulo": "Vídeo fictício 8",
+      "descricao": "1,5 mil visualizações fictícias",
+      "url": "https://www.youtube.com/embed/m6RspaT9w0Y",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "id": 8,
+      "categoria": "Aberturas de Anime"
+    },
+    {
+      "titulo": "Vídeo fictício 9",
+      "descricao": "1,5 mil visualizações fictícias",
+      "url": "https://www.youtube.com/embed/aJRu5ltxXjc",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "id": 9,
+      "categoria": "Aberturas de Anime"
+    },
+    {
+      "titulo": "Vídeo fictício 10",
+      "descricao": "1,5 mil visualizações fictícias",
+      "url": "https://www.youtube.com/embed/y2juBsz78gw",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "id": 10,
+      "categoria": "Aberturas de Anime"
+    },
+    {
+      "titulo": "Vídeo fictício 11",
+      "descricao": "1,5 mil visualizações fictícias",
+      "url": "https://www.youtube.com/embed/9mUcDMZviJY",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "id": 11,
+      "categoria": "Aberturas de Anime"
+    },
+    {
+      "titulo": "Vídeo fictício 12",
+      "descricao": "1,5 mil visualizações fictícias",
+      "url": "https://www.youtube.com/embed/8OkpRK2_gVs",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "id": 12,
+      "categoria": "Aberturas de Anime"
+    },
+    {
+      "titulo": "Vídeo fictício 13",
+      "descricao": "1,5 mil visualizações fictícias",
+      "url": "https://www.youtube.com/embed/SRn99oN1p_c",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "id": 13,
+      "categoria": "Aberturas de Anime"
+    },
+    {
+      "titulo": "Vídeo fictício 14",
+      "descricao": "1,5 mil visualizações fictícias",
+      "url": "https://www.youtube.com/embed/vxvP9zSOL7s",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "id": 14,
+      "categoria": "Aberturas de Anime"
+    },
+    {
+      "titulo": "Vídeo fictício 15",
+      "descricao": "1,5 mil visualizações fictícias",
+      "url": "https://www.youtube.com/embed/xjBTNbEXbAA",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "id": 15,
+      "categoria": "Aberturas de Anime"
+    },
+    {
+      "titulo": "Vídeo fictício 16",
+      "descricao": "1,5 mil visualizações fictícias",
+      "url": "https://www.youtube.com/embed/kmL3EuiiWXM",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "id": 16,
+      "categoria": "Aberturas de Anime"
+    },
+    {
+      "titulo": "Vídeo fictício 17",
+      "descricao": "1,5 mil visualizações fictícias",
+      "url": "https://www.youtube.com/embed/_6KZI74zKfE",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "id": 17,
+      "categoria": "Aberturas de Anime"
+    },
+    {
+      "titulo": "Vídeo fictício 18",
+      "descricao": "1,5 mil visualizações fictícias",
+      "url": "https://www.youtube.com/embed/faqmNf_fZlE",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "id": 18,
+      "categoria": "Aberturas de Anime"
+    },
+    {
+      "titulo": "Vídeo fictício 19",
+      "descricao": "1,5 mil visualizações fictícias",
+      "url": "https://www.youtube.com/embed/0Uk1OeC7-4g",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "id": 19,
+      "categoria": "Aberturas de Anime"
+    },
+    {
+      "titulo": "Vídeo fictício 20",
+      "descricao": "1,5 mil visualizações fictícias",
+      "url": "https://www.youtube.com/embed/mE8E3nT2U70",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "id": 20,
+      "categoria": "Aberturas de Anime"
+    },
+    {
+      "titulo": "Vídeo fictício 21",
+      "descricao": "1,5 mil visualizações fictícias",
+      "url": "https://www.youtube.com/embed/vilKAhgMQKY",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "id": 21,
+      "categoria": "Aberturas de Anime"
+    },
+    {
+      "titulo": "Vídeo fictício 22",
+      "descricao": "1,5 mil visualizações fictícias",
+      "url": "https://www.youtube.com/embed/n92YuYoQTDU",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "id": 22,
+      "categoria": "Aberturas de Anime"
+    }
+  ]
+}

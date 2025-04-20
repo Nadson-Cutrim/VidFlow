@@ -103,6 +103,16 @@
         "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
         "id": 13,
         "categoria": "Inteligência Artificial"
+      },
+      {
+        "titulo": "Naruto Shippuden Opening 6 | Sign (HD)",
+        "descricao": "1,5 mil visualizações",
+        "url": "https://www.youtube.com/embed/watch?v=SavhHnWla6c&list=RD0GvS5nEdoeU&index=14",
+        "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+        "id": 14,
+        "categoria": "Aberturas de Anime"
       }
     ]
+   
+
   }
