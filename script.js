@@ -16,3 +16,6 @@ containerVideos.innerHTML += `
 `
     }) // Adiciona o HTML de cada vídeo no container
 )
+.catch((error) =>{
+    containerVideos.innerHTML = `<p>Erro ao carregar os vídeos: ${error}</p>` // Caso ocorra um erro, exibe uma mensagem de erro
+})
