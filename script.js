@@ -15,6 +15,7 @@ async function buscareMostrarVideos() {
                 <div class="descricao-video">
                 <img class="img-canal" src="${animes.imagem}" alt="Logo do canal ${animes.canal}">
                 <h3 class="titulo-video">${animes.titulo}</h3>
+                <p class="categoria" hidden>${animes.categoria}</p>
                 <p class="descricao-video">${animes.descricao}</p>
                 </div>
                 </li> `;
@@ -33,8 +34,8 @@ async function buscareMostrarVideos() {
                 <div class="descricao-video">
                 <img class="img-canal" src="${video.imagem}" alt="Logo do canal ${video.canal}">
                 <h3 class="titulo-video">${video.titulo}</h3>
-                <p class="categoria" hidden>${video.categoria}</p>
                 <p class="descricao-video">${video.descricao}</p>
+                <p class="categoria" hidden>${video.categoria}</p>
                 </div>
                 
                 </li>`;
@@ -44,29 +45,39 @@ async function buscareMostrarVideos() {
   }
 }
 buscareMostrarVideos();
+
 const barraDePesquisa = document.querySelector(".pesquisar__input"); // Seleciona a barra de pesquisa
-barraDePesquisa.addEventListener("input",filtrarPesquisa); // Adiciona um evento de input à barra de pesquisa
-function filtrarPesquisa(){
-    const videos = document.querySelectorAll(".videos__item");
-    if (barraDePesquisa.value != "") {
-       for(let video of videos){
-        let tituloVideo = video.querySelector(".titulo-video").textContent.toLowerCase();
-        let valorFiltro = barraDePesquisa.value.toLowerCase();
-
-        if(!tituloVideo.includes(valorFiltro)){
-            video.style.display = "none"; // Se o título do vídeo não incluir o valor da barra de pesquisa, oculta o vídeo
-        }else{
-            video.style.display = "block"; // Caso contrário, exibe o vídeo
-        }
-       }
-    } else{
-        video.style.display = "block"; // Se a barra de pesquisa estiver vazia, exibe todos os vídeos
-    }
+    barraDePesquisa.addEventListener("input",filtrarPesquisa); // Adiciona um evento de input à barra de pesquisa
+    function filtrarPesquisa(){
+        const videos = document.querySelectorAll(".videos__item");
+        const valorFiltro = barraDePesquisa.value.toLowerCase();
+        videos.forEach((video) => {
+            const titulo = video.querySelector('.titulo-video').textContent.toLowerCase();
+        
+            video.style.display = valorFiltro ? titulo.includes(valorFiltro) ? 'block' : 'none' : 'block'; // Exibe ou oculta o vídeo com base no filtro
+        });
 }
+const botaoCategoria = document.querySelectorAll(".superior__item"); // Seleciona o botão de categorias
 
+botaoCategoria.forEach((botao) => {
+    let nomeCategoria = botao.getAttribute("name")
+    botao.addEventListener("click", () => filtrarPorCategoria(nomeCategoria)) // Adiciona um evento de clique ao botão de categorias
+})
 
+function filtrarPorCategoria(filtro){
+    const videos = document.querySelectorAll(".videos__item");
+for( let video of videos){
+        let categoria = video.querySelector(".categoria").textContent.toLowerCase();
+        let valorFiltro = filtro.toLowerCase();
 
-
+        if (!categoria.includes(valorFiltro) && valorFiltro != 'tudo'){
+            video.style.display = "none"; 
+        } else {
+        video.style.display = "block";
+     }
+    
+}
+}
 
 // json-server --watch backend/animes.json --port 3000 para rodar o json-server na porta 3000
 // json-server --watch backend/videos.json --port 3001 para rodar o json-server na porta 3001
